@@ -24,10 +24,6 @@ body:before {
     /* filter: blur(6px); */
     opacity: 60%;
     z-index: -1;
-
-
-    /* help!!!! */
-    /* transform: scale(1.2); */
 }
 
 main {
